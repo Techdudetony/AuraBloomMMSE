@@ -1,0 +1,2 @@
+# Python version used (optional but recommended for clarity)
+python_version >= 3.7
